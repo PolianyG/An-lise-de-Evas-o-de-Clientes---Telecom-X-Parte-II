@@ -1,4 +1,4 @@
-# Análise Preditiva de Evasão de Clientes (Churn) para Telecom X II
+# Análise Preditiva de Evasão de Clientes (Churn) para Telecom X Parte II
 ---
 
 Este projeto foi desenvolvido como parte de um desafio de ciência de dados e tem como objetivo principal analisar a evasão de clientes (churn) em uma empresa de telecomunicações fictícia, a "Telecom X". O estudo abrange desde a preparação e limpeza dos dados até a construção de modelos de machine learning para prever a probabilidade de um cliente cancelar seu contrato, culminando em um relatório com insights e recomendações estratégicas para a retenção de clientes.
